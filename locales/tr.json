@@ -1,0 +1,11 @@
+{
+  "title": "Ayarlar",
+  "theme_selector": "Renk Modu Seciniz",
+  "light_theme": "Acik Mod",
+  "dark_theme": "Koyu Mod",
+  "language_selector": "Dil Seciniz",
+  "select_english": "Ingilizce",
+  "select_dutch": "Flemenkce",
+  "select_turkish": "Turkce",
+  "proceed_button": "Websiteye giris yap"
+}

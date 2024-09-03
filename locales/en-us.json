@@ -1,0 +1,11 @@
+{
+  "title": "Settings",
+  "theme_selector": "Select Theme",
+  "light_theme": "Light Mode",
+  "dark_theme": "Dark Mode",
+  "language_selector": "Select Language",
+  "select_english": "English",
+  "select_dutch": "Dutch",
+  "select_turkish": "Turkish",
+  "proceed_button": "Proceed To Website"
+}
